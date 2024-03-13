@@ -37,7 +37,3 @@ const Felipe = {
   />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipeSalvarani&layout=compact" />
 </picture>
-
-## 
-
-![Snake animation](https://github.com/LuisFelipeSalvarani/LuisFelipeSalvarani/blob/output/github-contribution-grid-snake.svg)
