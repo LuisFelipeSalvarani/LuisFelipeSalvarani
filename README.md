@@ -7,7 +7,7 @@
 ```javascript
 const Felipe = {
   pronouns: "he" | "him",
-  code: [HTML, CSS],
+  code: [HTML, CSS, PHP],
   tools: [Bootstrap],
 }
 ```
