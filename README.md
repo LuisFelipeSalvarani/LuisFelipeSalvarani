@@ -7,8 +7,8 @@
 ```javascript
 const Felipe = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, PHP],
-  tools: [Bootstrap],
+  code: [HTML, CSS, JavaScript, PHP],
+  tools: [Bootstrap, Sass & Scss],
 }
 ```
 ##
