@@ -9,6 +9,7 @@ const Felipe = {
   pronouns: "he" | "him",
   code: [HTML, CSS, JavaScript, PHP],
   tools: [Bootstrap, Sass & Scss],
+  studing: [NodeJS]
 }
 ```
 ##
