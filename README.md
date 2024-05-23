@@ -7,7 +7,7 @@
 ```javascript
 const Felipe = {
   code: [HTML, CSS, JavaScript, PHP],
-  tools: [Bootstrap, Sass & Scss],
+  tools: [Bootstrap, Sass],
   studing: [NodeJS]
 }
 ```
