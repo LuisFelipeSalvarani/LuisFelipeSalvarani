@@ -1,10 +1,6 @@
 <h2>Hi 👋! My name is Luis Felipe and I'm a software developer, from Brazil <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDk4YjZmM2ZmMDgxOTIwYzIxM2Q3N2IzOGRkMDNkNzZkNWE0MDFlOCZjdD1z/KVavw5OVSK7LmYyhVx/giphy.gif" width="50"></h2>
 <p><em>Software Development Student at <a href="https://fatecitapira.edu.br">Fatec Itapira</a><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFiYWEyOTE3YjU5YjM3Y2RhYjUxNTljNjMwZDg1NGVlYjRhNjhiYSZjdD1z/bcKwTeSFswIlVJebN8/giphy.gif" width="30">
-
-###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/124rIiBX0Kh5Cw/giphy.gif?cid=ecf05e474jels10c7dpbypvunrf5rrl1bwhv205fdhb0ngo2&rid=giphy.gif&ct=s"  />
-
+  
 ###
 
 <picture>
@@ -31,6 +27,10 @@
   />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipeSalvarani&layout=compact" />
 </picture>
+
+###
+
+<img align="right" height="150" src="https://media4.giphy.com/media/124rIiBX0Kh5Cw/giphy.gif?cid=ecf05e474jels10c7dpbypvunrf5rrl1bwhv205fdhb0ngo2&rid=giphy.gif&ct=s"  />
 
 ###
 
