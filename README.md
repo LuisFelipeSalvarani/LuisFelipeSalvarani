@@ -61,7 +61,7 @@
 ###
 
 <div align="left">
-  <a href="felipe_salvarani@hotmail.com" target="_blank">
+  <a href="mailto:felipe_salvarani@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://www.linkedin.com/in/luis-felipe-salvarani-63846a201/" target="_blank">
